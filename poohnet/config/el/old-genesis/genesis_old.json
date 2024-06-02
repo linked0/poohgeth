@@ -15,12 +15,6 @@
     "clique": {
       "period": 14,
       "epoch": 30000
-    },
-    "bosagoraBlock": 100,
-    "bosagora": {
-      "commonsBudget": "0x6A9866BEB9CE792F57ea116F457825fDcC1FC75D",
-      "commonsBudgetReward": 120000000000000000000,
-      "lastCommonsBudgetRewardBlock": 15000100
     }
   },
   "difficulty": "1",
@@ -33,16 +27,16 @@
     "1811DfdE14b2e9aBAF948079E8962d200E71aCFD": {
       "balance": "1000000000000000000000000000"
     },
-    "0x3e29aEFA7af16625691a9fca4A7fff0624aaBC6f": {
+    "0x3e29aEFA7af16625691a9fca4A7fff0624aaBC6f": { 
       "balance": "2000000000000000000000000"
     },
-    "0xC64edC529C17D593f5339E02C9055312cE0718B7": {
+    "0xC64edC529C17D593f5339E02C9055312cE0718B7": { 
       "balance": "2000000000000000000000000"
     },
-    "0x284126BCf634F08dF00fb40b3D55bC1b63103804": {
+    "0x284126BCf634F08dF00fb40b3D55bC1b63103804": { 
       "balance": "2000000000000000000000000"
     },
-    "8532654aD638Db3deE3836B22B35f7Ca707428ca": {
+    "8532654aD638Db3deE3836B22B35f7Ca707428ca": { 
       "balance": "2000000000000000000000000"
     }
   }

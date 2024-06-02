@@ -3,6 +3,7 @@
     "chainId": 12301,
     "homesteadBlock": 0,
     "eip150Block": 0,
+    "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "eip155Block": 0,
     "eip158Block": 0,
     "byzantiumBlock": 0,
@@ -11,16 +12,9 @@
     "istanbulBlock": 0,
     "berlinBlock": 0,
     "londonBlock": 0,
-    "arrowglacierBlock": 0,
     "clique": {
       "period": 14,
       "epoch": 30000
-    },
-    "bosagoraBlock": 100,
-    "bosagora": {
-      "commonsBudget": "0x6A9866BEB9CE792F57ea116F457825fDcC1FC75D",
-      "commonsBudgetReward": 120000000000000000000,
-      "lastCommonsBudgetRewardBlock": 15000100
     }
   },
   "difficulty": "1",
