@@ -1,4 +1,9 @@
 #!/bin/sh
 
 go run build/ci.go install -static ./cmd/geth
-sudo cp ./build/bin/geth /usr/local/bin/
+if [ -f .sudo_pass ]; then
+    sudo -S cp ./build/bin/geth /usr/local/bin/ < .sudo_pass
+else
+    echo "It's recommended to use .sudo_pass file for sudo password."
+    sudo cp ./build/bin/geth /usr/local/bin/
+fi

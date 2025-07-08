@@ -49,3 +49,6 @@ poohgeth.iml
 
 **/yarn-error.log
 logs/
+
+# poohnet
+.sudo_pass
